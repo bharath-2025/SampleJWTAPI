@@ -1,0 +1,112 @@
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\appsettings.json
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.exe
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.deps.json
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.runtimeconfig.json
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.dll
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.pdb
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.csproj.AssemblyReference.cache
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.AssemblyInfoInputs.cache
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.AssemblyInfo.cs
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.csproj.CoreCompileInputs.cache
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.LMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.WebAPI.props
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.WebAPI.props
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.WebAPI.props
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\LMS.WebAPI.styles.css
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.dll
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\refint\LMS.WebAPI.dll
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.pdb
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.genruntimeconfig.cache
+F:\Angular\Angular Practice\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\ref\LMS.WebAPI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\appsettings.json
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.exe
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.deps.json
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.runtimeconfig.json
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\LMS.WebAPI.pdb
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Azure.Core.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Azure.Identity.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Humanizer.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.CodeDom.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.csproj.AssemblyReference.cache
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.AssemblyInfoInputs.cache
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.AssemblyInfo.cs
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.csproj.CoreCompileInputs.cache
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.LMS.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.LMS.WebAPI.props
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.LMS.WebAPI.props
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.LMS.WebAPI.props
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\scopedcss\bundle\LMS.WebAPI.styles.css
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.csproj.CopyComplete
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\refint\LMS.WebAPI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.pdb
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.genruntimeconfig.cache
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\ref\LMS.WebAPI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\obj\Debug\net7.0\LMS.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Aspire\LMS_Updated\LMS.WebAPI\LMS.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
